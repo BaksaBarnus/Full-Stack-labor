@@ -1,0 +1,23 @@
+button {
+    background-color: rgb(79, 219, 74);
+}
+
+input {
+    width: 50px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+img {
+    border-radius: 15px;
+    border: 3px darkblue solid;
+    margin-bottom: 30px;
+}
+
+img:hover {
+    filter: grayscale();
+}
+
+button:hover {
+    background-color: darkgreen;
+}
