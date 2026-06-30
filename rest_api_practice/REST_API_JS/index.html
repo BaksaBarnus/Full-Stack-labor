@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Developers</title>
+</head>
+<body>
+    <h1>Developers:</h1>
+
+    <div id="developers">
+
+    </div>
+
+    <hr>
+
+    <div id="developer-byid">
+        <input type="number" id="developer-id" placeholder="Fejlesztő ID"><button onclick="GetDeveloper()">Lekérés</button>
+
+    </div>
+
+    <hr>
+
+    <input type="text" id="developer-name" placeholder="Fejlesztő neve">
+    <input type="number" id="developer-salary" placeholder="fizetése">
+    <input type="checkbox" id="developer-active">Aktív
+    <br>
+    <button onclick="CreateDeveloper()">Hozzáadás</button>
+    <button onclick="UpdateDeveloper()">Módosít</button>
+    
+
+    <script src="main.js"></script>
+</body>
+</html>

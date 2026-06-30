@@ -1,0 +1,35 @@
+D:\Coding\RESTAPI Practice\bin\Debug\net8.0\appsettings.Development.json
+D:\Coding\RESTAPI Practice\bin\Debug\net8.0\appsettings.json
+D:\Coding\RESTAPI Practice\bin\Debug\net8.0\RESTAPI Practice.staticwebassets.endpoints.json
+D:\Coding\RESTAPI Practice\bin\Debug\net8.0\RESTAPI Practice.exe
+D:\Coding\RESTAPI Practice\bin\Debug\net8.0\RESTAPI Practice.deps.json
+D:\Coding\RESTAPI Practice\bin\Debug\net8.0\RESTAPI Practice.runtimeconfig.json
+D:\Coding\RESTAPI Practice\bin\Debug\net8.0\RESTAPI Practice.dll
+D:\Coding\RESTAPI Practice\bin\Debug\net8.0\RESTAPI Practice.pdb
+D:\Coding\RESTAPI Practice\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Coding\RESTAPI Practice\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Coding\RESTAPI Practice\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Coding\RESTAPI Practice\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Coding\RESTAPI Practice\obj\Debug\net8.0\RESTAPI Practice.csproj.AssemblyReference.cache
+D:\Coding\RESTAPI Practice\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Coding\RESTAPI Practice\obj\Debug\net8.0\RESTAPI Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\RESTAPI Practice\obj\Debug\net8.0\RESTAPI Practice.AssemblyInfoInputs.cache
+D:\Coding\RESTAPI Practice\obj\Debug\net8.0\RESTAPI Practice.AssemblyInfo.cs
+D:\Coding\RESTAPI Practice\obj\Debug\net8.0\RESTAPI Practice.csproj.CoreCompileInputs.cache
+D:\Coding\RESTAPI Practice\obj\Debug\net8.0\RESTAPI Practice.MvcApplicationPartsAssemblyInfo.cs
+D:\Coding\RESTAPI Practice\obj\Debug\net8.0\RESTAPI Practice.MvcApplicationPartsAssemblyInfo.cache
+D:\Coding\RESTAPI Practice\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Coding\RESTAPI Practice\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Coding\RESTAPI Practice\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Coding\RESTAPI Practice\obj\Debug\net8.0\scopedcss\bundle\RESTAPI Practice.styles.css
+D:\Coding\RESTAPI Practice\obj\Debug\net8.0\staticwebassets.build.json
+D:\Coding\RESTAPI Practice\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Coding\RESTAPI Practice\obj\Debug\net8.0\staticwebassets.development.json
+D:\Coding\RESTAPI Practice\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Coding\RESTAPI Practice\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Coding\RESTAPI Practice\obj\Debug\net8.0\RESTAPI .6E89DB18.Up2Date
+D:\Coding\RESTAPI Practice\obj\Debug\net8.0\RESTAPI Practice.dll
+D:\Coding\RESTAPI Practice\obj\Debug\net8.0\refint\RESTAPI Practice.dll
+D:\Coding\RESTAPI Practice\obj\Debug\net8.0\RESTAPI Practice.pdb
+D:\Coding\RESTAPI Practice\obj\Debug\net8.0\RESTAPI Practice.genruntimeconfig.cache
+D:\Coding\RESTAPI Practice\obj\Debug\net8.0\ref\RESTAPI Practice.dll
